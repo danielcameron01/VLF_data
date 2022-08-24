@@ -1,5 +1,5 @@
 # VLF_data
-Data from VLF study (2022 Current Biology)
+Data from VLF study (2022 Current Biology) in VLFdata_public.csv.
 
 For more information please contact Dr. Daniel Cameron (camerd7@mcmaster.ca).
 
